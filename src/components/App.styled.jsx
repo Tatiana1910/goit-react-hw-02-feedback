@@ -1,15 +1,8 @@
 import styled from 'styled-components';
 
-export const Title = styled.h1`
-  display: flex;
-  justify-content: center;
-  padding: 0;
-  margin: 0 auto 20px;
-`;
-
-export const SectionStyles = styled.section`
+export const Sections = styled.section`
   border: 3px solid green;
-  width: 600px;
+  width: 500px;
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
